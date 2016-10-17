@@ -97,4 +97,4 @@ Note that this does not install additional Windows dependencies.
 
 ### Contributing
 
-We are happy hear you want to contribute to our software. Make sure you have read and signed [Contributor License Agreement](https://github.com/exxeleron/yak/blob/master/CONTRIBUTING.md) beforehand.
+We are happy to hear you want to contribute to our software. Make sure you have read and signed [Contributor License Agreement](https://github.com/exxeleron/yak/blob/master/CONTRIBUTING.md) beforehand.
